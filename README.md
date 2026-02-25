@@ -15,7 +15,7 @@ While the user is distracted by the frontend "utility," the app must silently re
 ### 🎯 Key Requirements
 
 #### 1. The "Cover" (Frontend - React Native)
-* **The Facade:** A functional UI that justifies the app's existence. If it's a "Cat Spotter," it should actually show cats (hint: use [TheCatAPI](https://thecatapi.com/)).
+* **The Facade:** A functional UI that justifies the app's existence. If it's a "Cat Spotter," it should actually show cats (hint: use [TheCatAPI](https://thecatapi.com/)). But feel free to use anything else, and the more creative, the better! (This is an actual evaluation point!)
 * **The Tracker:** The app must capture the user’s GPS location accurately.
 * **The Stealth:** Tracking must continue even if the app is **minimized or the screen is locked** (Background Processes, with their known limitations).
 * **The Comms:** Send location updates ($lat$, $long$) to the backend in real-time while the app is active.
@@ -50,6 +50,6 @@ We live in the future, and we expect you to use the tools available. **The use o
     * The "Secret" to activating the tracking (if applicable).
     * Any trade-offs or technical shortcuts you took.
 4.  Include your `PROMPTS.md` file.
-5.  Submit your work via a **Pull Request** to the `main` branch of this repo.
+5.  Share your work via private repo with the accounts shared on your hiring manager interview!
 
 **Good luck, Agent. We'll be watching.**
